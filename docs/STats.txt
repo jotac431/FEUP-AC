@@ -1,0 +1,57 @@
+"year": The year in which the data is recorded.
+"tmID": Team ID, a unique identifier for each NBA team.
+"confID": Conference ID, indicating the conference to which the team belongs (e.g., Eastern Conference or Western Conference).
+"rank": The team's rank in its respective conference during the season.
+"playoff": A binary indicator (0 or 1) that signifies whether the team made it to the playoffs that season.
+"firstRound": A binary indicator for whether the team made it to the first round of the playoffs.
+"semis": A binary indicator for whether the team made it to the semifinals of the playoffs.
+"finals": A binary indicator for whether the team made it to the finals of the playoffs.
+"name": The name of the NBA team.
+"o_fgm": Offensive field goals made.
+"o_fga": Offensive field goals attempted.
+"o_ftm": Offensive free throws made.
+"o_fta": Offensive free throws attempted.
+"o_3pm": Offensive three-pointers made.
+"o_3pa": Offensive three-pointers attempted.
+"o_oreb": Offensive rebounds.
+"o_dreb": Defensive rebounds.
+"o_reb": Total rebounds (offensive + defensive).
+"o_asts": Assists.
+"o_pf": Personal fouls.
+"o_stl": Steals.
+"o_to": Turnovers.
+"o_blk": Blocks.
+"o_pts": Total points scored by the team.
+"d_fgm": Defensive field goals made.
+"d_fga": Defensive field goals attempted.
+"d_ftm": Defensive free throws made.
+"d_fta": Defensive free throws attempted.
+"d_3pm": Defensive three-pointers made.
+"d_3pa": Defensive three-pointers attempted.
+"d_oreb": Defensive rebounds.
+"d_dreb": Defensive rebounds.
+"d_reb": Total rebounds by the opposing team (defensive + offensive).
+"d_asts": Assists by the opposing team.
+"d_pf": Personal fouls committed by the opposing team.
+"d_stl": Steals by the opposing team.
+"d_to": Turnovers by the opposing team.
+"d_blk": Blocks by the opposing team.
+"d_pts": Total points scored by the opposing team.
+"tmORB": Total offensive rebounds by the team.
+"tmDRB": Total defensive rebounds by the team.
+"tmTRB": Total rebounds by the team (offensive + defensive).
+"opptmORB": Total offensive rebounds by the opposing team.
+"opptmDRB": Total defensive rebounds by the opposing team.
+"opptmTRB": Total rebounds by the opposing team (offensive + defensive).
+"won": Number of games won by the team.
+"lost": Number of games lost by the team.
+"GP": Total games played by the team.
+"homeW": Number of home games won by the team.
+"homeL": Number of home games lost by the team.
+"awayW": Number of away games won by the team.
+"awayL": Number of away games lost by the team.
+"confW": Number of conference games won by the team.
+"confL": Number of conference games lost by the team.
+"min": Total minutes played by the team.
+"attend": Total attendance at games.
+"arena": The name of the arena where the team plays its home games.
